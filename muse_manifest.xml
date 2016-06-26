@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="julietscastle.com" resolutions="1x" timestamp="1466669096608">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="julietscastle.com" resolutions="1x" timestamp="1466952400745">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_a-master.css" crc="4219469368" ref="index"/>
     <file name="master_b-master.css" crc="4118941588" ref="about-us:past-events:home:contact-us:menu"/>
     <file name="about-us.css" crc="328049750" ref="about-us"/>
     <file name="past-events.css" crc="328049750" ref="past-events"/>
-    <file name="home.css" crc="3824574996" ref="home"/>
-    <file name="contact-us.css" crc="328049750" ref="contact-us"/>
+    <file name="home.css" crc="4112457368" ref="home"/>
+    <file name="contact-us.css" crc="56305077" ref="contact-us"/>
     <file name="menu.css" crc="328049750" ref="menu"/>
     <file name="index.css" crc="443198871" ref="index"/>
   </folder>
@@ -38,9 +38,9 @@
     <file name="loading.gif" crc="3815509949" ref="home"/>
   </folder>
   <file name="index.html" crc="4233907580" seo="true" mt="1466665123582" redirect="true"/>
-  <file name="home.html" crc="3796529102" seo="true" mt="1466668794022" redirect="true"/>
-  <file name="about-us.html" crc="4097779737" seo="true" mt="1466668325595" redirect="true"/>
-  <file name="menu.html" crc="4275859097" seo="true" mt="1466668333215" redirect="true"/>
-  <file name="past-events.html" crc="130728163" seo="true" mt="1466668342682" redirect="true"/>
-  <file name="contact-us.html" crc="4202692827" seo="true" mt="1466668302930" redirect="true"/>
+  <file name="home.html" crc="3993582716" seo="true" mt="1466951921144" redirect="true"/>
+  <file name="about-us.html" crc="14035559" seo="true" mt="1466951921144" redirect="true"/>
+  <file name="menu.html" crc="3956217572" seo="true" mt="1466951921144" redirect="true"/>
+  <file name="past-events.html" crc="149405831" seo="true" mt="1466951921144" redirect="true"/>
+  <file name="contact-us.html" crc="4178145340" seo="true" mt="1466952368170" redirect="true"/>
 </manifest>
